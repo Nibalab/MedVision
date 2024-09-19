@@ -93,3 +93,10 @@
 | ![Appointment](./readme/assets/RequestApp.gif) | ![ChatPage](./readme/assets/Messages.png) | ![SignUp](./readme/assets/SignUp.png)   |
 
 
+### Admin Screens (Web)
+
+| Admin Dashboard                               | Doctor Page                              | Patient Page                        |
+| ------------------------------------------ | --------------------------------------------- | ------------------------------------------ |
+| ![Landing](./readme/assets/AdminDashboard.png) | ![fsdaf](./readme/assets/doctors.png) | ![fsdaf](./readme/assets/Patients.png) |
+
+<br><br>
