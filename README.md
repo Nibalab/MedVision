@@ -57,8 +57,8 @@
 
 ### Mockups
 
-| Doctor Dashboard                                        | hhhhhhhhhhhhhh                            | Ppppppppppppppp                           |
-| --------------------------------------------------------| ----------------------------------------- | ----------------------------------------- |
+| Doctor Dashboard                          | hhhhhhhhhhhhhh                            | Ppppppppppppppp                           |
+| ------------------------------------------| ----------------------------------------- | ----------------------------------------- |
 | ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![fsdaf](./readme/assets/jjjjjjjPage.png) | ![fsdaf](./readme/assets/PppppppPage.png) |
 
 <br><br>
