@@ -7,3 +7,6 @@
 [submodule "MedVison--Socket"]
 	path = MedVison--Socket
 	url = https://github.com/Nibalab/MedVision--Socket.git
+[submodule "MedVision-ML"]
+	path = MedVision-ML
+	url = https://github.com/Nibalab/MedVision-ML.git
