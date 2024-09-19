@@ -83,3 +83,13 @@
 | Patient Page                                | ChatPage                            | SignUp as a Doctor                          |
 | ![Patient](./readme/assets/PatientPage.png) | ![ChatPage](./readme/assets/Chat.jpg) | ![SignUp](./readme/assets/SignUpDoctor.png)   |
 
+
+### Patient Screens (Web)
+
+| Patient SignUp                               | Patient dashboard                             | Patient Report                        |
+| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| ![SignUp](./readme/assets/SignUpPatient.png) | ![Patient](./readme/assets/PatientDashboard.png) | ![report](./readme/assets/PatientReport.png) |
+| Request Appointment                               | ChatPage                            | SignUp                          |
+| ![Appointment](./readme/assets/RequestforApp.png) | ![ChatPage](./readme/assets/Messages.png) | ![SignUp](./readme/assets/SignUp.png)   |
+
+
