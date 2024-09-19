@@ -57,8 +57,8 @@
 
 ### Mockups
 
-| Doctor Dashboard                                    | LogIn                            | Chats                            |
+| Doctor Dashboard                                    | Request an Appointment                            | Chats                            |
 | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![LogIn](./readme/assets/login.png) | ![Chats](./readme/assets/Chats.png) |
+| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![LogIn](./readme/assets/RequestforApp.png) | ![Chats](./readme/assets/Chats.png) |
 
 <br><br>
