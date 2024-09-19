@@ -62,3 +62,24 @@
 | ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![Request an Appointment](./readme/assets/RequestforApp.png) | ![Chats](./readme/assets/Chats.png) |
 
 <br><br>
+
+<!-- Database Design -->
+<img src="./readme/title5.svg"/>
+
+###  Architecting Data Excellence: Innovative Database Design Strategies:
+
+![ER Diagram](./readme/assets/db.png)
+
+<br><br>
+
+<!-- Implementation -->
+<img src="./readme/title6.svg"/>
+
+### Doctor Screens (Web)
+
+| Doctor Dashboard                               | Upload Page                            | Schedule Page                            |
+| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| ![DoctorDashboard](./readme/assets/download.gif)       | ![Upload](./readme/assets/Upload.gif) | ![Schedule](./readme/assets/Schdule.png) |
+| Patient Page                                | ChatPage                            | SignUp as a Doctor                          |
+| ![Patient](./readme/assets/PatientPage.png) | ![ChatPage](./readme/assets/Chat.jpg) | ![SignUp](./readme/assets/SignUpDoctor.png)   |
+
