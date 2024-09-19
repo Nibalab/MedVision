@@ -1,0 +1,3 @@
+[submodule "MedVision-FrontEnd"]
+	path = MedVision-FrontEnd
+	url = https://github.com/Nibalab/MedVision-FrontEnd.git
