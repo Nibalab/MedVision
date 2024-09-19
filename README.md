@@ -50,3 +50,7 @@
 
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
+
+> We designed PlantPulse using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+
+- Project Figma design [figma](https://www.figma.com/design/aw2wDNWy383Ls7W9jvHdln/MedVision?node-id=0-1&node-type=canvas&t=CsQl6SbJJCzoHXqu-0)
