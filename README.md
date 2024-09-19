@@ -57,8 +57,8 @@
 
 ### Mockups
 
-| Doctor Dashboard                                    | Gardens Screen                            | Profile Screen                            |
+| Doctor Dashboard                                    | LogIn                            | Chats                            |
 | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![fsdaf](./readme/assets/GardensPage.png) | ![fsdaf](./readme/assets/ProfilePage.png) |
+| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![LogIn](./readme/assets/login.png) | ![Chats](./readme/assets/Chats.png) |
 
 <br><br>
