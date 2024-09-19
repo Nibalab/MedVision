@@ -59,6 +59,6 @@
 
 | Doctor Dashboard                                    | Request an Appointment                            | Chats                            |
 | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![LogIn](./readme/assets/RequestforApp.png) | ![Chats](./readme/assets/Chats.png) |
+| ![DoctorDashboard](./readme/assets/doctorDashboard.png) | ![Request an Appointment](./readme/assets/RequestforApp.png) | ![Chats](./readme/assets/Chats.png) |
 
 <br><br>
