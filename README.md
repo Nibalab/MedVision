@@ -1,3 +1,5 @@
+#MedVision
+
 <img src="./readme/title1.svg"/>
 
 <br><br>
@@ -9,11 +11,23 @@
 
 
 ### User Stories
-- As a doctor, I want to upload CT scans easily so that I can quickly begin the analysis process.
-- As a doctor, I want to manipulate the 3D models (rotate, zoom, etc.) so that I can examine the scan in detail.
-- As a doctor, I want to generate a detailed report automatically from my annotations and notes so that I can save time on documentation.
-- As a patient, I want to access my medical reports through a portal so that I can stay informed about my health.
-- As a patient, I want to review the findings in my report so that I can understand my condition.
-- As a patient, I want to schedule a follow-up appointment if necessary so that I can receive timely medical care.
+
+## Doctor
+ 
+- As a doctor, I want to upload CT scans and use machine learning to detect cancer so that I can efficiently diagnose my patients.
+-As a doctor, I want to view and manage my daily and weekly schedule so that I can keep track of my appointments and plan my day.
+-As a doctor, I want to live chat with other doctors and patients so that I can collaborate with colleagues and communicate with patients in real time.
+
+## Patient
+
+- As a patient, I want to request an appointment with a doctor so that I can receive medical attention when needed.
+-As a patient, I want to view the medical report uploaded by my doctor so that I can understand the results of my diagnosis.
+-As a patient, I want to live chat with my doctor so that I can ask questions and get updates about my health in real time.
+
+## Admin
+
+- As an admin, I want to view a summary chart that displays statistics about doctors and patients so that I can monitor the overall activity of the platform.
+- As an admin, I want to manage doctor and patient information so that I can keep the system updated and accurate.
+- As an admin, I want to edit or delete user accounts so that I can maintain control over who can access the platform.
 
 <br><br>
