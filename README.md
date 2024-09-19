@@ -31,3 +31,22 @@
 - As an admin, I want to edit or delete user accounts so that I can maintain control over who can access the platform.
 
 <br><br>
+
+<!-- Tech stack -->
+<img src="./readme/title3.svg"/>
+
+### MedVision is built using the following technologies:
+
+- The backend is powered by [Laravel 11](https://laravel.com/), a PHP framework used to handle authentication, database management, and server-side logic.
+- The frontend is developed using [React](https://reactjs.org/), a JavaScript library for building user interfaces
+- Node.js (https://nodejs.org/en) is used for implementing real-time chat functionality using Socket.IO (https://socket.io/), enabling seamless communication between doctors and patients.
+- JWT (https://jwt.io/) is utilized for authentication and session management, ensuring secure access for users.
+- The database is managed using [MYSQL] (https://www.mysql.com/), providing reliable storage for patient and doctor information, reports, and appointments.
+- Machine learning models are used to analyze CT scans uploaded by doctors to detect the presence of cancer, enabling advanced diagnostic capabilities.
+- The live chat functionality between doctors and patients, as well as between doctors, is powered by [Node.js] and [Socket.IO] for real-time communication.
+- Admins can manage users and view detailed summaries of doctors and patients through a dedicated admin dashboard built using [Laravel] and [React].
+
+<br><br>
+
+<!-- UI UX -->
+<img src="./readme/title4.svg"/>
