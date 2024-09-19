@@ -4,3 +4,6 @@
 [submodule "MedVision-BackEnd"]
 	path = MedVision-BackEnd
 	url = https://github.com/Nibalab/MedVision-BackEnd.git
+[submodule "MedVison--Socket"]
+	path = MedVison--Socket
+	url = https://github.com/Nibalab/MedVision--Socket.git
