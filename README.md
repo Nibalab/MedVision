@@ -171,9 +171,9 @@ Ensure you have the following installed before setting up MedVision:
 1. Clone the repo
    git clone [github](https://github.com/Nibalab/MedVision.git)
 
-2. Install NPM packages (for the React frontend)   
+2. Install NPM packages
    ```sh
-  npm install
+   npm install
    ```
 3. Install PHP dependencies (for the Laravel backend)  
     ```sh
