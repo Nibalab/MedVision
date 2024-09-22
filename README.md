@@ -199,7 +199,7 @@ Ensure you have the following installed before setting up MedVision:
    npm start
    ``` 
 9. Live chat setup: Ensure that Node.js and Socket.IO are properly set up and running for real-time communication features.
-   * Start the Socket.IO server (located in the Node.js server folder):   
+   Start the Socket.IO server (located in the Node.js server folder):   
        ```sh
     node server.js
    ``` 
