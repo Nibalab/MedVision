@@ -184,23 +184,23 @@ Ensure you have the following installed before setting up MedVision:
 
 5. Generate the application key for Laravel 
      ```sh
-  php artisan key:generate
+   php artisan key:generate
    ```  
 6. Run migrations to set up the database 
     ```sh
-  php artisan migrate
+   php artisan migrate
    ```   
 7. Run the backend
    ```sh
-  php artisan serve
+   php artisan serve
    ``` 
 8. Run the frontend
    ```sh
-  npm start
+   npm start
    ``` 
 9. Live chat setup: Ensure that Node.js and Socket.IO are properly set up and running for real-time communication features.
    * Start the Socket.IO server (located in the Node.js server folder):   
        ```sh
-  node server.js
+    node server.js
    ``` 
 Now, you should be able to run Coffee Express locally and explore its features.         
