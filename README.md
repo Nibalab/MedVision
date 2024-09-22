@@ -192,7 +192,7 @@ Ensure you have the following installed before setting up MedVision:
    ```   
 7. Run the backend
    ```sh
-   php artisan serve
+    php artisan serve
    ``` 
 8. Run the frontend
    ```sh
@@ -200,7 +200,7 @@ Ensure you have the following installed before setting up MedVision:
    ``` 
 9. Live chat setup: Ensure that Node.js and Socket.IO are properly set up and running for real-time communication features.
    Start the Socket.IO server (located in the Node.js server folder):   
-       ```sh
+ ```sh
     node server.js
    ``` 
 Now, you should be able to run Coffee Express locally and explore its features.         
