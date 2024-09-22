@@ -152,3 +152,9 @@
 > To set up MedVision locally, follow these steps:
 
 ### Prerequisites
+
+Ensure you have the following installed before setting up MedVision:
+* **npm** (Node.js package manager)
+  ```sh
+  npm install npm@latest -g
+   ```
