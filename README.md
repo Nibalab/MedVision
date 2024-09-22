@@ -116,7 +116,7 @@
 
 - By using [ngrok](https://ngrok.com/) to expose the local server to the internet, the system enables remote access to the prediction API, allowing users to submit images from anywhere for analysis. The model’s predictions are efficiently interpreted to determine whether the result is "Cancer" or "No Cancer."
 
-- This system also includes prompt-based interaction in the live chat, where doctors can communicate with patients or other doctors. The prompts are designed to facilitate a smooth conversational flow, ensuring that both patients and doctors get accurate, context-aware responses.
+- [Node.js](https://nodejs.org/en) and [Socket.IO](https://socket.io/) power the real-time live chat feature, enabling seamless communication between doctors and patients or between doctors themselves. The prompts within the chat are designed to maintain fluid and meaningful conversations, ensuring that both patients and doctors receive accurate and context-aware responses.
 
 <br><br>
 
