@@ -177,7 +177,7 @@ Ensure you have the following installed before setting up MedVision:
    ```
 3. Install PHP dependencies (for the Laravel backend)  
     ```sh
-  composer install
+   composer install
    ``` 
 4. Set up environment variables:
   * Copy .env.example to .env for both the frontend and backend and fill in your details (API keys, database credentials, etc.).
