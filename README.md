@@ -135,3 +135,20 @@
 <img src="./readme/title9.svg"/>
 
 ###  Precision in Development: Harnessing the Power of Unit Testing:
+
+- While unit tests ensure the internal correctness of the system, Postman is used to manually test and validate API endpoints during development. By sending requests and reviewing the responses, we ensure that the Laravel backend API handles authentication, data retrieval, and communication processes correctly.
+
+- Postman helps verify the accuracy of key endpoints, including those handling CT scan image uploads, cancer predictions, report generation, and appointment management. It also ensures that Socket.IO-based communication for real-time chat functions as intended.
+
+- This manual testing method is particularly useful for checking the integration between the frontend and backend, making sure that responses match expected behavior under different conditions before deploying to production.
+
+
+<br><br>
+
+
+<!-- How to run -->
+<img src="./readme/title10.svg"/>
+
+> To set up MedVision locally, follow these steps:
+
+### Prerequisites
