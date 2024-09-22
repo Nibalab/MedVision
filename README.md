@@ -163,3 +163,44 @@ Ensure you have the following installed before setting up MedVision:
   composer install  
    ``` 
 * **MySQL** (or any other database you plan to use)
+
+### Installation
+
+> Follow these steps to install and set up MedVision locally:
+
+1. Clone the repo
+   git clone [github](https://github.com/Nibalab/MedVision.git)
+
+2. Install NPM packages (for the React frontend)   
+   ```sh
+  npm install
+   ```
+3. Install PHP dependencies (for the Laravel backend)  
+    ```sh
+  composer install
+   ``` 
+4. Set up environment variables:
+  * Copy .env.example to .env for both the frontend and backend and fill in your details (API keys, database credentials, etc.).
+
+5. Generate the application key for Laravel 
+     ```sh
+  php artisan key:generate
+   ```  
+6. Run migrations to set up the database 
+    ```sh
+  php artisan migrate
+   ```   
+7. Run the backend
+   ```sh
+  php artisan serve
+   ``` 
+8. Run the frontend
+   ```sh
+  npm start
+   ``` 
+9. Live chat setup: Ensure that Node.js and Socket.IO are properly set up and running for real-time communication features.
+   * Start the Socket.IO server (located in the Node.js server folder):   
+       ```sh
+  node server.js
+   ``` 
+Now, you should be able to run Coffee Express locally and explore its features.         
