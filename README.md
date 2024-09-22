@@ -100,3 +100,21 @@
 | ![Landing](./readme/assets/AdminDashboard.png) | ![fsdaf](./readme/assets/doctors.png) | ![fsdaf](./readme/assets/Patients.png) |
 
 <br><br>
+
+
+<!-- Prompt Engineering -->
+<img src="./readme/title7.svg"/>
+
+###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+
+
+- This project leverages the power of prompt engineering to optimize interactions within the system, particularly when detecting cancer using machine learning. By carefully designing the input data and instructions, the model's performance is fine-tuned for enhanced accuracy in diagnosing cancer from CT scans.
+- Additionally, in the live chat feature, prompt engineering plays a crucial role in ensuring that doctor-patient interactions are seamless, delivering context-aware and meaningful responses. The system efficiently guides doctors and patients through complex conversations, enhancing communication and improving overall user experience.
+- The prompt structure enables personalized and task-specific responses, which leads to higher precision in generating reports, answering questions, and handling appointments in the doctor-patient communication loop.
+
+<br><br>
+
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
+
+###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
