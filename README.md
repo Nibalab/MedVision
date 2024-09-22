@@ -158,7 +158,7 @@ Ensure you have the following installed before setting up MedVision:
   ```sh
   npm install npm@latest -g
    ```
-**Composer** (for Laravel dependencies)
+* **Composer** (for Laravel dependencies)
 ```sh
 composer install  
 ``` 
