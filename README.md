@@ -108,9 +108,15 @@
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
 
-- This project leverages the power of prompt engineering to optimize interactions within the system, particularly when detecting cancer using machine learning. By carefully designing the input data and instructions, the model's performance is fine-tuned for enhanced accuracy in diagnosing cancer from CT scans.
-- Additionally, in the live chat feature, prompt engineering plays a crucial role in ensuring that doctor-patient interactions are seamless, delivering context-aware and meaningful responses. The system efficiently guides doctors and patients through complex conversations, enhancing communication and improving overall user experience.
-- The prompt structure enables personalized and task-specific responses, which leads to higher precision in generating reports, answering questions, and handling appointments in the doctor-patient communication loop.
+- This project leverages advanced prompt engineering techniques to optimize interaction with deep learning models for cancer detection. The system uses a pre-trained [VGG16](https://www.geeksforgeeks.org/vgg-16-cnn-model/) model to analyze CT scan images and predict the likelihood of cancer. By carefully crafting the input data (in this case, images in base64 format), the system ensures that the model receives appropriately preprocessed data for accurate predictions.
+
+- [TensorFlow](https://www.tensorflow.org/) is utilized to load and run the pre-trained model, while [Flask](https://flask.palletsprojects.com/en/3.0.x/) serves as the backend API for handling incoming image data and returning predictions. Additionally, [Flask-CORS](https://pypi.org/project/Flask-Cors/) is integrated to ensure seamless cross-origin communication between the frontend and backend.
+
+- The cancer detection model processes CT scan images, classifies them, and returns a result indicating whether cancer is present. The model operates in real-time through a web-based API, providing fast and reliable diagnostic results to assist doctors in decision-making.
+
+- By using [ngrok](https://ngrok.com/) to expose the local server to the internet, the system enables remote access to the prediction API, allowing users to submit images from anywhere for analysis. The model’s predictions are efficiently interpreted to determine whether the result is "Cancer" or "No Cancer."
+
+- This system also includes prompt-based interaction in the live chat, where doctors can communicate with patients or other doctors. The prompts are designed to facilitate a smooth conversational flow, ensuring that both patients and doctors get accurate, context-aware responses.
 
 <br><br>
 
