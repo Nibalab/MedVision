@@ -124,3 +124,14 @@
 <img src="./readme/title8.svg"/>
 
 ###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+
+- The frontend of this project is deployed on [Vercel](https://vercel.com/), ensuring high-performance delivery of the React application. Vercel provides automatic build and deployment pipelines directly from the GitHub repository, enabling fast and reliable updates for the user interface.
+
+- The backend is deployed on an AWS EC2 instance, utilizing the scalability and flexibility of Amazon's cloud infrastructure. This instance hosts the Laravel-based API and machine learning model services, ensuring seamless processing of CT scan image data and returning predictions in real time.
+
+<br><br>
+
+<!-- Unit Testing -->
+<img src="./readme/title9.svg"/>
+
+###  Precision in Development: Harnessing the Power of Unit Testing:
