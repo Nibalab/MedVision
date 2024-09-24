@@ -87,11 +87,13 @@
 
 ### Patient Screens (Web)
 
-| Patient SignUp                               | Patient dashboard                             | Patient Report                        |
-| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![SignUp](./readme/assets/SignUpPatient.png) | ![Patient](./readme/assets/PatientDashboard.png) | ![report](./readme/assets/PatientReport.png) |
-| Request Appointment                               | ChatPage                            | SignUp                          |
-| ![Appointment](./readme/assets/RequestApp.gif) | ![ChatPage](./readme/assets/Messages.png) | ![SignUp](./readme/assets/SignUp.png)   |
+| Patient SignUp                               | Patient dashboard                             
+| ------------------------------------------- | ----------------------------------------- | 
+| ![SignUp](./readme/assets/SignUpPatient.png) | ![Patient](./readme/assets/PatientDashboard.png) | 
+| Patient Report                        | SignUp                          |
+| ![report](./readme/assets/PatientReport.png) | ![SignUp](./readme/assets/SignUp.png)   |
+| Request Appointment                               | ChatPage                            | 
+| ![Appointment](./readme/assets/RequestApp.gif) | ![ChatPage](./readme/assets/Messages.png) |
 
 
 ### Admin Screens (Web)
