@@ -77,12 +77,13 @@
 
 ### Doctor Screens (Web)
 
-| Doctor Dashboard                               | Upload Page                            | Schedule Page                            |
-| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![DoctorDashboard](./readme/assets/download.gif)       | ![Upload](./readme/assets/Upload.gif) | ![Schedule](./readme/assets/Schdule.png) |
-| Patient Page                                | ChatPage                            | SignUp as a Doctor                          |
-| ![Patient](./readme/assets/PatientPage.png) | ![ChatPage](./readme/assets/Chat.jpg) | ![SignUp](./readme/assets/SignUpDoctor.png)   |
-
+| Doctor Dashboard                               | Upload Page                            |
+| ------------------------------------------- | ----------------------------------------- | 
+| ![DoctorDashboard](./readme/assets/download.gif)       | ![Upload](./readme/assets/Upload.gif) | 
+|Schedule Page                            | SignUp as a Doctor                          |
+|![Schedule](./readme/assets/Schdule.png) | ![SignUp](./readme/assets/SignUpDoctor.png)   |
+| Patient Page                                | ChatPage                            | 
+| ![Patient](./readme/assets/PatientPage.png) | ![ChatPage](./readme/assets/Chat.jpg) | 
 
 ### Patient Screens (Web)
 
