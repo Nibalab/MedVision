@@ -203,4 +203,4 @@ Ensure you have the following installed before setting up MedVision:
  ```sh
     node server.js
    ``` 
-Now, you should be able to run Coffee Express locally and explore its features.         
+Now, you should be able to run MedVision locally and explore its features.         
