@@ -98,9 +98,11 @@
 
 ### Admin Screens (Web)
 
-| Admin Dashboard                               | Doctor Page                              | Patient Page                        |
-| ------------------------------------------ | --------------------------------------------- | ------------------------------------------ |
-| ![Landing](./readme/assets/AdminDashboard.png) | ![fsdaf](./readme/assets/doctors.png) | ![fsdaf](./readme/assets/Patients.png) |
+| Admin Dashboard                               | Doctor Page                              | 
+| ------------------------------------------ | --------------------------------------------- | 
+| ![Landing](./readme/assets/AdminDashboard.png) | ![fsdaf](./readme/assets/doctors.png) | 
+| Patient Page                        |
+| ![fsdaf](./readme/assets/Patients.png) |
 
 <br><br>
 
