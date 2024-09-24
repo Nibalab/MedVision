@@ -101,7 +101,7 @@
 | Admin Dashboard                               | Doctor Page                              | 
 | ------------------------------------------ | --------------------------------------------- | 
 | ![Landing](./readme/assets/AdminDashboard.png) | ![fsdaf](./readme/assets/doctors.png) | 
-| Patient Page                        | Edit Doctor                         |
+| Patient Page                        | Edit Doctor                              |
 | ![fsdaf](./readme/assets/Patients.png) | ![fsdaf](./readme/assets/admin.gif) |
 
 <br><br>
