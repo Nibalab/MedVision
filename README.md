@@ -91,7 +91,7 @@
 | ------------------------------------------- | ----------------------------------------- | 
 | ![SignUp](./readme/assets/SignUpPatient.png) | ![Patient](./readme/assets/PatientDashboard.png) | 
 | Patient Report                        | SignUp                          |
-| ![report](./readme/assets/PatientReport.png) | ![SignUp](./readme/assets/SignUp.png)   |
+| ![report](./readme/assets/PatientReport.png) | ![SignUp](./readme/assets/SignUp.gif)   |
 | Request Appointment                               | ChatPage                            | 
 | ![Appointment](./readme/assets/RequestApp.gif) | ![ChatPage](./readme/assets/Messages.png) |
 
